@@ -1,3 +1,4 @@
 timers:
   initial: 1
   assign: 1
+  cron: 0 6 * * * ?
