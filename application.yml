@@ -1,4 +1,4 @@
 timers:
-  initial: 1
-  assign: 1
+  initial: 10
+  assign: 10
   cron: 0 0 6 * * *
